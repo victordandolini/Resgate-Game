@@ -14,8 +14,6 @@ Uma das dificuldades dos desenvolvedores de jogos é encontrar uma plataforma de
 
 - [Projeto desenvolvido](netlify)
 
-<p align="center"><img src="./src/assets/readme/projeto.gif" title="Resgate Game"></p>
-
 <h3>👨‍💻 Tecnologias utilizadas</h3>
 
 - [HTML](https://www.w3schools.com/html/)
