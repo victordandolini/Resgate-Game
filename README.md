@@ -1,12 +1,12 @@
 <!--Banner session-->
 <p align="center">
-  <img src="./src/assets/readme/banner.png" alt="DIO" title="Digital Innovation One">
+  <img src="https://yt3.ggpht.com/qMPyLWsg6kipqVXeVUmusXfNABJGAWignNcYfS7jlEXLsD44PU3dVSFlf8e4sMXTAJKExbDREw=s900-c-k-c0x00ffffff-no-rj" alt="DIO" title="Digital Innovation One" width="320" height="250">
 </p>
 
 <!--About session-->
 <h1 align="center">Construindo o seu primeiro jogo de naves<br>Digital Innovation One</h1>
 
-<img src="./src/assets/readme/badge.png" title="Badge" width="70" height="70">
+<img src="./src/assets/readme/badge.png" title="Badge" width="170" height="170">
 
 Curso do Bootcamp JavaScript Game Developer da [Digital Innovation One](https://digitalinnovation.one/).
 
