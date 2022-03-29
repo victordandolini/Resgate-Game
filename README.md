@@ -25,7 +25,5 @@ Uma das dificuldades dos desenvolvedores de jogos é encontrar uma plataforma de
 <!--License session-->
 <h3>📝 Licença</h3>
 
-- Este projeto está sob a licença [MIT](./LICENSE).
-
 <!--Bottom session-->
 <br><h4 align=center>Made with by <a target="_blank" href="https://github.com/victordandolini" >Victor Dandolini</a></h4>
